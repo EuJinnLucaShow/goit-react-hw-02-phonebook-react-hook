@@ -28,7 +28,7 @@ function App() {
 
   return (
     <Container>
-      <Title>Phonebook</Title>
+      <Title>Phonebook📱</Title>
       <ContactForm addContact={addContact} contacts={contacts} />
 
       <Heading2>Contacts</Heading2>
